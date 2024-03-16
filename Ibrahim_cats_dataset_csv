@@ -1,0 +1,101 @@
+,Name,Breed,Age,Color,Weight_kg,Gender,Personality,Health_Status
+0,Cat1,Sphynx,4,Calico,5.896905588200626,Male,Curious,Healthy
+1,Cat2,Persian,10,Calico,4.911837226657703,Female,Lazy,Healthy
+2,Cat3,Sphynx,12,White,4.118103164509816,Male,Lazy,Recovering
+3,Cat4,Bengal,14,Tortoiseshell,2.1701927302715167,Female,Affectionate,Healthy
+4,Cat5,Bengal,2,Black,4.261066263769693,Male,Playful,Healthy
+5,Cat6,Maine Coon,8,Black,2.440387105792553,Male,Lazy,Sick
+6,Cat7,Maine Coon,7,Calico,1.6293823320187784,Male,Curious,Sick
+7,Cat8,Bengal,10,Tortoiseshell,4.462007100538797,Male,Playful,Recovering
+8,Cat9,Siamese,13,White,4.734810089112943,Male,Playful,Recovering
+9,Cat10,Russian Blue,4,Tortoiseshell,4.335388751193202,Male,Affectionate,Healthy
+10,Cat11,Persian,5,Gray,1.7636005209972303,Male,Independent,Recovering
+11,Cat12,Russian Blue,2,Gray,5.693084253728514,Male,Affectionate,Healthy
+12,Cat13,Persian,14,White,2.3183680278437127,Female,Lazy,Recovering
+13,Cat14,Bengal,10,Calico,4.804155809072068,Female,Lazy,Recovering
+14,Cat15,Sphynx,8,Calico,1.4758429526287526,Female,Independent,Healthy
+15,Cat16,Sphynx,7,Gray,4.475861578776666,Female,Affectionate,Recovering
+16,Cat17,Maine Coon,9,Black,5.080445771693661,Female,Independent,Recovering
+17,Cat18,Russian Blue,6,Black,7.599221802758416,Male,Independent,Recovering
+18,Cat19,Siamese,7,Black,5.18069679566393,Female,Playful,Sick
+19,Cat20,Siamese,1,Black,3.846435925495371,Male,Playful,Recovering
+20,Cat21,Sphynx,11,Gray,4.310175953559551,Female,Playful,Healthy
+21,Cat22,Bengal,14,Gray,3.346233352477907,Male,Independent,Sick
+22,Cat23,Sphynx,7,Black,7.047708694678847,Male,Playful,Sick
+23,Cat24,Bengal,8,Tortoiseshell,1.4574349206050847,Male,Curious,Healthy
+24,Cat25,Maine Coon,9,Gray,2.608079460869998,Male,Affectionate,Sick
+25,Cat26,Russian Blue,10,White,3.063927478468368,Female,Independent,Sick
+26,Cat27,Persian,1,Calico,3.901818849622414,Male,Playful,Healthy
+27,Cat28,Sphynx,3,Tortoiseshell,2.9513376834182217,Female,Playful,Healthy
+28,Cat29,Maine Coon,3,Gray,2.0291121854181746,Female,Lazy,Recovering
+29,Cat30,Persian,10,White,2.3771170714871843,Female,Affectionate,Healthy
+30,Cat31,Bengal,12,White,7.131642249846363,Female,Independent,Sick
+31,Cat32,Siamese,14,Black,4.154745120823897,Male,Playful,Recovering
+32,Cat33,Maine Coon,7,Gray,3.1777160814016394,Male,Affectionate,Sick
+33,Cat34,Siamese,10,White,4.505853891863945,Female,Curious,Healthy
+34,Cat35,Persian,4,Gray,4.935606411542905,Male,Lazy,Healthy
+35,Cat36,Russian Blue,1,White,3.636583580775391,Female,Curious,Sick
+36,Cat37,Maine Coon,14,Tabby,7.21988895803631,Female,Playful,Recovering
+37,Cat38,Siamese,10,Gray,7.476704578087022,Female,Independent,Healthy
+38,Cat39,Bengal,14,White,7.853459597853011,Male,Playful,Healthy
+39,Cat40,Persian,7,Gray,3.017824876580978,Female,Lazy,Healthy
+40,Cat41,Russian Blue,1,Black,7.371801809938394,Male,Lazy,Sick
+41,Cat42,Siamese,9,Calico,7.142842420915144,Female,Lazy,Healthy
+42,Cat43,Sphynx,7,Black,3.562070373632551,Male,Curious,Healthy
+43,Cat44,Russian Blue,13,White,5.334349866380863,Male,Playful,Sick
+44,Cat45,Russian Blue,13,White,1.435366920667991,Female,Curious,Sick
+45,Cat46,Maine Coon,10,White,1.8954807960588849,Female,Curious,Recovering
+46,Cat47,Maine Coon,3,Black,5.043437561157487,Male,Playful,Recovering
+47,Cat48,Siamese,14,Calico,2.9638275793485014,Male,Playful,Sick
+48,Cat49,Russian Blue,9,Black,7.3343901114893075,Male,Curious,Sick
+49,Cat50,Sphynx,1,Gray,5.582295242590109,Female,Playful,Sick
+50,Cat51,Siamese,7,White,6.327971237069282,Male,Independent,Recovering
+51,Cat52,Siamese,3,White,6.193508565701343,Female,Playful,Healthy
+52,Cat53,Sphynx,9,Gray,3.898828695317168,Female,Playful,Healthy
+53,Cat54,Persian,10,White,5.487064343968617,Female,Curious,Sick
+54,Cat55,Persian,12,Gray,5.399031918226619,Female,Curious,Sick
+55,Cat56,Sphynx,5,Calico,7.050329119022806,Female,Affectionate,Sick
+56,Cat57,Siamese,7,Tabby,2.1381069658735594,Female,Curious,Sick
+57,Cat58,Sphynx,3,Gray,6.278138464060025,Male,Affectionate,Healthy
+58,Cat59,Russian Blue,11,Gray,1.6765779313161735,Female,Playful,Sick
+59,Cat60,Maine Coon,2,White,2.5876085308484584,Male,Curious,Sick
+60,Cat61,Siamese,2,Tortoiseshell,2.4763699999567583,Male,Lazy,Recovering
+61,Cat62,Sphynx,4,Tabby,4.195294205610905,Male,Curious,Recovering
+62,Cat63,Maine Coon,12,Calico,7.102071208659488,Female,Independent,Recovering
+63,Cat64,Russian Blue,1,White,7.490113956173691,Female,Curious,Sick
+64,Cat65,Bengal,3,White,4.165792939404214,Male,Playful,Recovering
+65,Cat66,Siamese,12,Black,6.110424749861511,Female,Curious,Recovering
+66,Cat67,Bengal,5,White,7.971323715061009,Male,Curious,Recovering
+67,Cat68,Sphynx,1,White,6.77291252605492,Female,Curious,Recovering
+68,Cat69,Siamese,4,Gray,1.2310501593921437,Male,Lazy,Sick
+69,Cat70,Persian,1,Gray,6.24860301097061,Male,Playful,Healthy
+70,Cat71,Maine Coon,10,Gray,2.355407559261849,Male,Lazy,Healthy
+71,Cat72,Maine Coon,7,Calico,1.617428519784636,Male,Lazy,Recovering
+72,Cat73,Bengal,4,Black,2.111497950630087,Female,Playful,Recovering
+73,Cat74,Persian,9,Tabby,7.987149824828078,Male,Playful,Healthy
+74,Cat75,Maine Coon,4,Calico,5.497092577984249,Male,Lazy,Recovering
+75,Cat76,Maine Coon,1,Tortoiseshell,6.364391619394474,Female,Independent,Healthy
+76,Cat77,Bengal,2,White,6.308207417197504,Female,Independent,Healthy
+77,Cat78,Siamese,11,Tabby,7.495987299076679,Female,Lazy,Recovering
+78,Cat79,Siamese,14,Black,3.028901461282496,Female,Lazy,Recovering
+79,Cat80,Bengal,2,Tabby,6.096151114287901,Female,Playful,Healthy
+80,Cat81,Russian Blue,12,Gray,1.3725912330441852,Female,Independent,Healthy
+81,Cat82,Russian Blue,7,Calico,6.125799789103486,Female,Affectionate,Sick
+82,Cat83,Russian Blue,4,Tabby,6.090718242484009,Female,Playful,Healthy
+83,Cat84,Russian Blue,11,White,2.0070330489733514,Male,Affectionate,Recovering
+84,Cat85,Sphynx,9,Gray,2.8964904556738373,Female,Affectionate,Healthy
+85,Cat86,Sphynx,3,Tabby,5.4091594795662274,Female,Lazy,Healthy
+86,Cat87,Persian,14,Gray,6.265109167438129,Female,Independent,Healthy
+87,Cat88,Maine Coon,3,Black,6.555337065123001,Female,Playful,Healthy
+88,Cat89,Sphynx,6,Black,4.80410113595441,Female,Affectionate,Healthy
+89,Cat90,Persian,14,Black,3.5110571209795824,Female,Playful,Healthy
+90,Cat91,Sphynx,8,Tabby,4.544786071144268,Male,Independent,Healthy
+91,Cat92,Russian Blue,14,Tortoiseshell,6.708654110166854,Male,Playful,Healthy
+92,Cat93,Siamese,11,Tortoiseshell,2.452118566408017,Male,Affectionate,Recovering
+93,Cat94,Sphynx,2,Black,2.865646301567909,Female,Curious,Healthy
+94,Cat95,Maine Coon,4,Tabby,3.0986958440526786,Female,Affectionate,Healthy
+95,Cat96,Persian,6,Calico,7.765716722539529,Female,Curious,Recovering
+96,Cat97,Bengal,14,Gray,5.730802271477502,Female,Affectionate,Recovering
+97,Cat98,Bengal,9,Gray,1.5878007964467713,Female,Lazy,Sick
+98,Cat99,Russian Blue,1,Gray,4.381855293025204,Male,Playful,Healthy
+99,Cat100,Siamese,2,Gray,7.560413013844039,Male,Curious,Sick
